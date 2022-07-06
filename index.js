@@ -201,7 +201,7 @@ module.exports = {
       list_numbered: "Lista Numerada",
       blockquote: "Citação",
       color: "Cor",
-      highliter: "Cor de Realce",
+      highlight: "Cor de Realce",
     },
   },
 };
