@@ -176,6 +176,20 @@ module.exports = {
         "Tem certeza que deseja remover esse item da sua lista de pesquisas salvas?",
       help: "Filtrar os resultados e salvar essa pesquisa para depois.",
     },
+    configurable: {
+      customize: 'Customizar',
+      configureMode: 'Configurar esta página',
+      inspector: {
+        title: 'Inspetor',
+        content: 'Passe o mouse sobre os elementos da IU do aplicativo para configurá-los',
+        reset: 'Resetar configurações',
+      },
+      SimpleList: {
+        primaryText: 'Texto primário',
+        secondaryText: 'Texto secundário',
+        tertiaryText: 'Texto terciário',
+      },
+    },
     tiptap: {
       clear_format: "Limpar Formatação",
       bold: "Negrito",
